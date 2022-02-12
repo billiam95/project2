@@ -6,6 +6,8 @@ const methodOverride  = require('method-override');
 const mongoose = require ('mongoose');
 const app = express ();
 const db = mongoose.connection;
+const God = require(`./models/gods.js`)
+const godSeed = require(`./models/seed.js`)
 require('dotenv').config()
 //___________________
 //Port
@@ -48,8 +50,14 @@ app.use(methodOverride('_method'));// allow POST, PUT and DELETE from a form
 // Routes
 //___________________
 //localhost:3000
-app.get('/' , (req, res) => {
-  res.send('Hello World!');
+app.get('/smite_compendium' , (req, res) => {
+    God.find({} , (err, allGods) => {
+        res.render(`index.ejs` ,
+          {
+            god: allGods
+          }
+        )
+    })
 });
 
 //___________________
