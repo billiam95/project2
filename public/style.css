@@ -1,0 +1,59 @@
+body {
+  background-color: darkblue;
+}
+
+h1 {
+  color: yellow;
+}
+
+h2 {
+  color: yellow;
+}
+
+h3 {
+  color: yellow;
+}
+
+h4 {
+  color: yellow;
+}
+
+p {
+  color: yellow;
+}
+
+div {
+  text-align: center;
+  grid-gap: 5px;
+}
+
+tr, td, th {
+  border: 2px solid blue;
+  color: yellow;
+  text-align: left;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+}
+
+p.filter {
+  color: yellow;
+}
+
+table {
+  margin: 5%;
+  width: 50vw;
+}
+
+
+form {
+  color: yellow;
+}
+
+a.navlink {
+  text-decoration: none;
+  font-size: 2em;
+  color: yellow;
+}

@@ -2,6 +2,37 @@
 <html lang="en" dir="ltr">
 <%- include(`./partials/head.ejs`) %>
   <body>
-    
+    <%- include(`./partials/nav.ejs`) %>
+    <div class="container-fluid">
+      <h1><%=god.name%></h1>
+      <img src="<%=god.skins[0]%>" alt="card">
+      <h2><%=god.title%></h2>
+      <h3>Pantheon: <%=god.pantheon%></h3>
+      <h3>Class: <%=god.class%></h3>
+      <h3>Type: <%=god.type%></h3>
+      <h3>Lore</h3>
+      <p class ="lore"><%=god.lore%></p>
+      <h3>Abilities:</h3>
+      <% for (i=0;i < god.abilities.length;i++) { %>
+        <table class ="table-striped">
+          <th><%=god.abilities[i].abilityName%></th>
+          <tr>
+            <td><%=god.abilities[i].abilityEffect1%></td>
+            <td><%=god.abilities[i].abilityEffect2%></td>
+          </tr>
+          <tr>
+            <td><%=god.abilities[i].abilityEffect3%></td>
+            <td><%=god.abilities[i].abilityEffect4%></td>
+          </tr>
+        </table>
+      <% } %>
+      <h3>Passive:</h3>
+      <h4><%=god.passive[0].passiveName%></h4>
+      <p><%=god.passive[0].passiveDescription%></p>
+    </div>
+    <a class = "btn btn-primary" href="/smite_compendium/<%=god.id%>/edit">EDIT</a>
+    <form action ="/smite_compendium/<%=god.id%>?_method=DELETE" method="POST">
+      <input class = "btn btn-danger" type="submit" value="DELETE"></input>
+    </form>
   </body>
 </html>

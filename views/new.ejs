@@ -2,6 +2,27 @@
 <html lang="en" dir="ltr">
 <%- include(`./partials/head.ejs`) %>
   <body>
-
+    <h1>Create God</h1>
+      <form action="/smite_compendium" method="POST">
+        Name: <input type="text" name="god.name" />
+        Icon: <input type="text" name="god.img" />
+        Card: <input type="text" name="god.skins[0]" />
+        Title: <input type="text" name="god.title" />
+        Class: <input type="text" name="god.class" />
+        Type:  <input type="text" name="god.type" />
+        Lore: <input type="text" name="god.lore" />
+        Pantheon: <input type="text" name="god.pantheon" />
+        Ability 1 Name: <input type="text" name="god.abilities[0].abilityName" />
+        Ability 1 Description: <input type="text" name="god.abilities[0].abilityDescription" />
+        Ability 2 Name: <input type="text" name="god.abilities[1].abilityName" />
+        Ability 2 Description: <input type="text" name="god.abilities[1].abilityDescription" />
+        Ability 3 Name: <input type="text" name="god.abilities[2].abilityName" />
+        Ability 3 Description: <input type="text" name="god.abilities[2].abilityDescription" />
+        Ability 4 Name: <input type="text" name="god.abilities[3].abilityName" />
+        Ability 4 Description: <input type="text" name="god.abilities[3].abilityDescription" />
+        Passive Name: <input type="text" name="god.passive.passiveName" />
+        Passive Description: <input type="text" name="god.passive.passiveDescription" />
+        <input type="submit" value="Create God" />
+      </form>
   </body>
 </html>

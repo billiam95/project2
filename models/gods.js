@@ -13,7 +13,46 @@ const godSchema = new mongoose.Schema ({
       {
       abilityName: String,
       abilityType: String,
-      abilityDescription: String
+      abilityDescription: String,
+      abilityEffect1: String,
+      abilityEffect2: String,
+      abilityEffect3: String,
+      abilityEffect4: String,
+      abilityCost: String,
+      abilityCooldown: String
+      },
+      {
+      abilityName: String,
+      abilityType: String,
+      abilityDescription: String,
+      abilityEffect1: String,
+      abilityEffect2: String,
+      abilityEffect3: String,
+      abilityEffect4: String,
+      abilityCost: String,
+      abilityCooldown: String
+      },
+      {
+      abilityName: String,
+      abilityType: String,
+      abilityDescription: String,
+      abilityEffect1: String,
+      abilityEffect2: String,
+      abilityEffect3: String,
+      abilityEffect4: String,
+      abilityCost: String,
+      abilityCooldown: String
+      },
+      {
+      abilityName: String,
+      abilityType: String,
+      abilityDescription: String,
+      abilityEffect1: String,
+      abilityEffect2: String,
+      abilityEffect3: String,
+      abilityEffect4: String,
+      abilityCost: String,
+      abilityCooldown: String
       }
       ],
     passive: [
