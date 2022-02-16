@@ -28,9 +28,10 @@ div {
 }
 
 tr, td, th {
-  border: 2px solid blue;
+  border: 2px solid darkblue;
   color: yellow;
   text-align: left;
+  padding: 5px;
 }
 
 nav {
