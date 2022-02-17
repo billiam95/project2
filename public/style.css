@@ -56,3 +56,7 @@ a.navlink {
   font-size: 2em;
   color: yellow;
 }
+
+img.carousel {
+  display: none;
+}

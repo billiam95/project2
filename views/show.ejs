@@ -6,7 +6,15 @@
     <%- include(`./partials/nav.ejs`) %>
     <div class="container-fluid">
       <h1><%=god.name%></h1>
-      <img src="<%=god.skins[0]%>" alt="card">
+    </div>
+      <button type="button" class="previous"><<<</button>
+      <div class="carousel-container">
+        <img class="carousel" src="<%=god.skins[0]%>" alt="card"/>
+        <img class="carousel" src="<%=god.skins[1]%>" alt="card"/>
+        <img class="carousel" src="<%=god.skins[2]%>" alt="card"/>
+      </div>
+      <button type="button" class="next">>>></button>
+    <div class="container-fluid">
       <h2><%=god.title%></h2>
       <h3>Pantheon: <%=god.pantheon%></h3>
       <h3>Class: <%=god.class%></h3>
