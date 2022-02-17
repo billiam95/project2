@@ -77,7 +77,7 @@ app.get(`/smite_compendium/:id/edit`, (req, res) => {
   })
 })
 
-// // filter for Warriors only
+// // filters for classes
 app.get('/smite_compendium/warriors' , (req, res) => {
     God.find({class: "Warrior"} , (err, godWarrior) => {
         res.render(`index.ejs` ,
@@ -87,6 +87,50 @@ app.get('/smite_compendium/warriors' , (req, res) => {
         )
     })
 });
+
+app.get('/smite_compendium/assassins' , (req, res) => {
+    God.find({class: "Assassin"} , (err, godWarrior) => {
+        res.render(`index.ejs` ,
+          {
+            god: godWarrior
+          }
+        )
+    })
+});
+
+
+app.get('/smite_compendium/mages' , (req, res) => {
+    God.find({class: "Mage"} , (err, godWarrior) => {
+        res.render(`index.ejs` ,
+          {
+            god: godWarrior
+          }
+        )
+    })
+});
+
+
+app.get('/smite_compendium/guardians' , (req, res) => {
+    God.find({class: "Guardian"} , (err, godWarrior) => {
+        res.render(`index.ejs` ,
+          {
+            god: godWarrior
+          }
+        )
+    })
+});
+
+
+app.get('/smite_compendium/hunters' , (req, res) => {
+    God.find({class: "Hunter"} , (err, godWarrior) => {
+        res.render(`index.ejs` ,
+          {
+            god: godWarrior
+          }
+        )
+    })
+});
+
 
 // Route for showing home page
 app.get('/smite_compendium' , (req, res) => {

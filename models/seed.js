@@ -115,11 +115,11 @@ module.exports = [
     abilityCooldown: "Cooldown: Dependent on Halos"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Combustion",
     passiveDescription: "Hitting an enemy with a Basic Attack provides 1 stack of Combustion. Hitting an enemy god provides 2. At 4 stacks Agni's next Flame Wave or Rain Fire will ignite all enemies hit, dealing damage every .5s for 3s."
-    }]
+    }
 },
 {
   name: "Ah Muzen Cab",
@@ -176,11 +176,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Bees",
     passiveDescription: "Enemies afflicted by Bees! take damage every .5s for 2s, are revealed on the minimap, and swarm nearby enemies. Basic Attacks refresh and extend the duration of Bees! by 1s. This damage does not trigger Item effects."
-    }]
+    }
 },
 {
   name: "Ah Puch",
@@ -237,11 +237,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Hollow Ground",
     passiveDescription: "Ah Puch is closely attuned with the dead and may exhume corpses at his will. When walking over a decaying corpse, Ah Puch lowers the cooldown of Undead Surge and Corpse Explosion by 2s, restores 7% of his maximum Health and 3% of his maximum Mana."
-    }]
+    }
 },
 {
   name: "Amaterasu",
@@ -298,11 +298,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 95/90/85/80/75 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Illuminating Strike",
     passiveDescription: "Amaterasu illuminates enemies she hits with basic attacks. After 3 hits on the same target the enemy gains an aura, exposing their weaknesses and causing them to take more damage from all sources. Any other enemies that come near the afflicted target are weakened as well."
-    }]
+    }
 },
 {
   name: "Anhur",
@@ -359,11 +359,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Enfeeble",
     passiveDescription: "Anhur's spear attacks reduce the enemy target's Physical Protection for 3 seconds."
-    }]
+    }
 },
 {
   name: "Anubis",
@@ -420,11 +420,11 @@ module.exports = [
     abilityCooldown: "90/85/80/75/70 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Sorrow",
     passiveDescription: "All of Anubis' abilities steal Physical and Magical Protection from the target and increase his Healing obtained from Magical Lifesteal. These effects stack on every tick of Anubis' abilities. Sorrow also grants Anubis an additional 30% reduction to all Crowd Control durations."
-    }]
+    }
 },
 {
   name: "Ao Kuang",
@@ -481,11 +481,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Dragon King's Sword",
     passiveDescription: "Every 12 seconds Ao Kuang gets a stack of Dragon King's Sword. With a stack available, his next non-ultimate ability that deals damage to an Enemy god has a reduced cooldown and heals Ao Kuang. Successfully executing an Enemy god with King of the Eastern Seas fully charges Dragon King's Sword."
-    }]
+    }
 },
 {
   name: "Aphrodite",
@@ -542,11 +542,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Center of Attention",
     passiveDescription: "Aphrodite gains 4 Physical Protection and 4 Magical Protection for each friendly or enemy god within 70 feet of her."
-    }]
+    }
 },
 {
   name: "Apollo",
@@ -603,11 +603,11 @@ module.exports = [
       abilityCooldown: "Cooldown: 110 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Audacity",
     passiveDescription: "After 10 successful Basic Attacks, Apollo gains Audacity, increasing his Attack Speed by 100% for the next 5 Basic Attacks (hit or miss) he makes. Apollo also gains 1 stack of Audacity for each successful damaging ability on Enemy gods."
-    }]
+    }
 },
 {
   name: "Arachne",
@@ -664,11 +664,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90/85/80/75/70 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Predator",
     passiveDescription: "Arachne's Basic Attacks gain 1.5% Physical damage for every 5% of a target's missing Health."
-    }]
+    }
 },
 {
   name: "Ares",
@@ -725,11 +725,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 100 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Blessed Presence",
     passiveDescription: "Each completed aura item that Ares owns grants him 30 additional Magical Power."
-    }]
+    }
 },
 {
   name: "Artemis",
@@ -786,11 +786,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Still Target",
     passiveDescription: "Artemis deals 15% increased Basic Attack damage to gods and 30% to minions who are afflicted by Crowd Control."
-    }]
+    }
 },
 {
   name: "Artio",
@@ -847,11 +847,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 1 second"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Decompose",
     passiveDescription: "Enemy gods hit by Artio's Druid or Bear damaging abilities will begin to decompose. This effect decreases their Physical and Magical Protections. This effect stacks."
-    }]
+    }
 },
 {
   name: "Athena",
@@ -908,11 +908,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 110 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Reach",
     passiveDescription: "After using any ability, Athena's next Basic Attack is ranged, passes through and hits all enemies, and deals 50% increased damage to the first enemy hit. Reach's damage will trigger Basic Attack Item Effects, but not Ability ones."
-    }]
+    }
 },
 {
   name: "Atlas",
@@ -969,11 +969,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "The Astrolabe",
     passiveDescription: "As Atlas takes damage from Gods or when he deals damage with his Basic Attacks or Abilities, he accumulates 1.25 Energy in his Astrolabe. Minions provide 1/10th of the Energy. When he reaches 20 Energy his next Basic Attack has 1.5x damage, 1.5s swing time, and deals bonus damage in an area in front of him. Gods hit are Trembled for 2s while minions are stunned. Atlas can store up to 30 Energy"
-    }]
+    }
 },
 {
   name: "Awilix",
@@ -1030,11 +1030,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90/85/80/75/70 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Initiative",
     passiveDescription: "If Awilix has not taken or dealt damage in the last 5s and she strikes an enemy first, she increases her Physical Power for a short duration."
-    }]
+    }
 },
 {
   name: "Baba Yaga",
@@ -1091,11 +1091,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Creeping Cabin",
     passiveDescription: "Baba Yaga's Cabin accumulates up to 100 essence over time, when it moves, and if enemy gods get too close. Baba Yaga can approach the Cabin and use this essence to gain evolving item stacks. Items with a low stack count take more energy. If Baba Yaga has no stacking item this essence heals Baba Yaga for 0.8% max health per tick."
-    }]
+    }
 },
 {
   name: "Bacchus",
@@ -1152,11 +1152,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Drunk-O-Meter",
     passiveDescription: "Bacchus loves the drink and as Bacchus drinks from his jug, he becomes more intoxicated, gaining Buffs when he gets Tipsy and Smashed. Bacchus also celebrates when he kills an enemy god, giving him 10% on his meter."
-    }]
+    }
 },
 {
   name: "Bakasura",
@@ -1213,11 +1213,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90/85/80/75/70 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Insatiable Hunger",
     passiveDescription: "Bakasura's attack and movement speed temporarily increases for each enemy that he kills."
-    }]
+    }
 },
 {
   name: "Baron Samedi",
@@ -1274,11 +1274,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Hysteria",
     passiveDescription: "Baron shares Baron's Brew, a powerful restorative chalice, with his allies from the Item Shop. Enemies hit by Baron will have Hysteria applied to them. Baron's abilities interact with Hysteria to provide bonus effects. Targets at Max Hysteria take 20% additional damage from Baron Samedi."
-    }]
+    }
 },
 {
   name: "Bastet",
@@ -1335,11 +1335,11 @@ module.exports = [
     abilityCooldown: "Cooldown: 110/105/100/95/90 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Nightstalker",
     passiveDescription: "Bastet gains Physical Lifesteal and Physical Ability Lifesteal when hitting enemies. Additionally enemy gods hit are revealed to Bastet for 6s."
-    }]
+    }
 },
 {
   name: "Bellona",
@@ -1396,10 +1396,10 @@ module.exports = [
     abilityCooldown: "Cooldown: 75 seconds"
     }
     ],
-  passive: [
+  passive:
     {
     passiveName: "Master of War",
     passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
-    }]
+    }
 },
 ]

@@ -22,10 +22,6 @@ p {
   color: yellow;
 }
 
-div {
-  text-align: center;
-  grid-gap: 5px;
-}
 
 tr, td, th {
   border: 2px solid darkblue;
@@ -39,8 +35,10 @@ nav {
   justify-content: space-around;
 }
 
-p.filter {
-  color: yellow;
+div.filter {
+  margin-top: 3%;
+  display: flex;
+  flex-direction: row;
 }
 
 table {

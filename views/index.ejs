@@ -2,14 +2,22 @@
 <html lang="en" dir="ltr">
 <%- include(`./partials/head.ejs`) %>
   <body>
-    <%- include(`./partials/nav.ejs`) %>
+      <%- include(`./partials/nav.ejs`) %>
     <div class = "filter">
       <form action ="/smite_compendium/warriors" method="GET">
-        <input type="radio" id="Assassin" name="Class" value="Assassin"><p class = "filter">ASSASSIN</p></input>
-        <input type="radio" id="Mage" name="Class" value="Mage"><p class = "filter">MAGE</p></input>
-        <input type="radio" id="Hunter" name="Class" value="Hunter"><p class = "filter">HUNTER</p></input>
-        <input type="radio" id="Warrior" name="Class" value="Warrior"><p class = "filter">WARRIOR</p></input>
-        <input type="radio" id="Guardian" name="Class" value="Guardian"><p class = "filter">GUARDIAN</p></input>
+        <input type="submit" id="Warrior" name="Class" value="Warriors"></input>
+      </form>
+      <form action ="/smite_compendium/assassins" method="GET">
+        <input type="submit" id="Assassins" name="Class" value="Assassins"></input>
+      </form>
+      <form action ="/smite_compendium/mages" method="GET">
+        <input type="submit" id="Mages" name="Class" value="Mages"></input>
+      </form>
+      <form action ="/smite_compendium/guardians" method="GET">
+        <input type="submit" id="Guardian" name="Class" value="Guardians"></input>
+      </form>
+      <form action ="/smite_compendium/hunters" method="GET">
+        <input type="submit" id="Hunter" name="Class" value="Hunters"></input>
       </form>
     </div>
     <center><h1>SMITE COMPENDIUM</h1></center>
