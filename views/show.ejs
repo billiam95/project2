@@ -28,8 +28,8 @@
         </table>
       <% } %>
       <h3>Passive:</h3>
-      <h4><%=god.passive[0].passiveName%></h4>
-      <p><%=god.passive[0].passiveDescription%></p>
+      <h4><%=god.passive.passiveName%></h4>
+      <p><%=god.passive.passiveDescription%></p>
     </div>
     <a class = "btn btn-primary" href="/smite_compendium/<%=god.id%>/edit">EDIT</a>
     <form action ="/smite_compendium/<%=god.id%>?_method=DELETE" method="POST">
