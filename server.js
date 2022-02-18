@@ -47,13 +47,13 @@ app.use(express.json());// returns middleware that only parses JSON - may or may
 app.use(methodOverride('_method'));// allow POST, PUT and DELETE from a form
 
 // add seed data to databse
-// God.create(godSeed, (err,data) => {
-//   if (err) {
-//     console.log(err.message);
-//   } else {
-//     console.log(`Gods added to database!`)
-//   }
-// })
+God.create(godSeed, (err,data) => {
+  if (err) {
+    console.log(err.message);
+  } else {
+    console.log(`Gods added to database!`)
+  }
+})
 
 //___________________
 // Routes
