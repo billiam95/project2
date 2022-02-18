@@ -47,13 +47,13 @@ app.use(express.json());// returns middleware that only parses JSON - may or may
 app.use(methodOverride('_method'));// allow POST, PUT and DELETE from a form
 
 // add seed data to databse
-God.create(godSeed, (err,data) => {
-  if (err) {
-    console.log(err.message);
-  } else {
-    console.log(`Gods added to database!`)
-  }
-})
+// God.create(godSeed, (err,data) => {
+//   if (err) {
+//     console.log(err.message);
+//   } else {
+//     console.log(`Gods added to database!`)
+//   }
+// })
 
 //___________________
 // Routes
@@ -62,52 +62,6 @@ God.create(godSeed, (err,data) => {
 
 //route updating the information from the edit fields
 app.put(`/smite_compendium/:id` , (req, res) => {
-  const ab1 = {
-    abilityName: req.body.ability1Name,
-    abilityType: req.body.ability1Type,
-    abilityDescription: req.body.ability1Description,
-    abilityEffect1: req.body.ability1Effect1,
-    abilityEffect2: req.body.ability1Effect2,
-    abilityEffect3: req.body.ability1Effect3,
-    abilityEffect4: req.body.ability1Effect4,
-    abilityCost: req.body.ability1Cost,
-    abilityCooldown: req.body.ability1Cooldown
-  }
-  const ab2 = {
-    abilityName: req.body.ability2Name,
-    abilityType: req.body.ability2Type,
-    abilityDescription: req.body.ability2Description,
-    abilityEffect1: req.body.ability2Effect1,
-    abilityEffect2: req.body.ability2Effect2,
-    abilityEffect3: req.body.ability2Effect3,
-    abilityEffect4: req.body.ability2Effect4,
-    abilityCost: req.body.ability2Cost,
-    abilityCooldown: req.body.ability2Cooldown
-  }
-  const ab3 = {
-    abilityName: req.body.ability3Name,
-    abilityType: req.body.ability3Type,
-    abilityDescription: req.body.ability3Description,
-    abilityEffect1: req.body.ability3Effect1,
-    abilityEffect2: req.body.ability3Effect2,
-    abilityEffect3: req.body.ability3Effect3,
-    abilityEffect4: req.body.ability3Effect4,
-    abilityCost: req.body.ability3Cost,
-    abilityCooldown: req.body.ability3Cooldown
-  }
-  const ab4 = {
-    abilityName: req.body.ability4Name,
-    abilityType: req.body.ability4Type,
-    abilityDescription: req.body.ability4Description,
-    abilityEffect1: req.body.ability4Effect1,
-    abilityEffect2: req.body.ability4Effect2,
-    abilityEffect3: req.body.ability4Effect3,
-    abilityEffect4: req.body.ability4Effect4,
-    abilityCost: req.body.ability4Cost,
-    abilityCooldown: req.body.ability4Cooldown
-  }
-
-  req.body.abilities = [ab1,ab2,ab3,ab4]
   God.findByIdAndUpdate(req.params.id , req.body, {new:true} , (error, updatedModel) => {
     res.redirect(`/smite_compendium`)
   })

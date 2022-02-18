@@ -5308,7 +5308,7 @@ module.exports = [
 },
 {
   name: "Ra",
-  img: "/ICONS/Ra.jpg",
+  img: "/ICONS/RA.jpg",
   skins: ["/SKINS/Ra0.jpg","/SKINS/Ra1.jpg","/SKINS/Ra2.jpg"],
   title: "Goddess of Destruction",
   type: ["Ranged", "Magical"],
