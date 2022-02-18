@@ -9,9 +9,9 @@
     </div>
       <button type="button" class="previous"><<<</button>
       <div class="carousel-container">
-        <img class="carousel" src="<%=god.skins[0]%>" alt="card"/>
-        <img class="carousel" src="<%=god.skins[1]%>" alt="card"/>
-        <img class="carousel" src="<%=god.skins[2]%>" alt="card"/>
+        <% for (let i=0; i<=god.skins.length-1; i++) { %>
+        <img class="carousel" src="<%=god.skins[i]%>" alt="card"/>
+        <% } %>
       </div>
       <button type="button" class="next">>>></button>
     <div class="container-fluid">

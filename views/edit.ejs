@@ -5,11 +5,11 @@
     <%- include(`./partials/nav.ejs`) %>
     <h1>Edit <%=god.name%></h1>
     <form action="/smite_compendium/<%=god.id%>?_method=PUT" method='POST'>
-        name: <input type="text" name="name" value="<%=god.name%>"><br><br>
+        Name: <input type="text" name="name" value="<%=god.name%>"><br><br>
         img: <input type="text" name="img" value="<%=god.img%>"><br><br>
         skins: <input type="text" name="skins[0]" value="<%=god.skins[0]%>"><br><br>
-        title: <input type="text" name="title" value="<%=god.title%>"><br><br>
-        title: <input type="text" name="pantheon" value="<%=god.pantheon%>"><br><br>
+        Title: <input type="text" name="title" value="<%=god.title%>"><br><br>
+        Pantheon: <input type="text" name="pantheon" value="<%=god.pantheon%>"><br><br>
         type:<input type="text" name="type" value="<%=god.type%>"><br><br>
         Class:<input type="text" name="class" value="<%=god.class%>"><br><br>
         Lore:<input type="text" name="lore" value="<%=god.lore%>"><br><br>

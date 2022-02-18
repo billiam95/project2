@@ -6,8 +6,8 @@ let imageNum = 0;
 let imageIndex = $(`div.carousel-container`).children().length-1;
 
 $(`.next`).on(`click`, () => {
-  $(`.carousel`).eq(imageNum).fadeOut(500)
-  $(`.carousel`).delay(500)
+  $(`.carousel`).eq(imageNum).fadeOut(300)
+  $(`.carousel`).delay(250)
   if (imageNum >= imageIndex)
     {
     imageNum = 0;
@@ -16,12 +16,12 @@ $(`.next`).on(`click`, () => {
     {
     imageNum++;
     }
-$(`.carousel`).eq(imageNum).fadeIn(500)
+$(`.carousel`).eq(imageNum).fadeIn(300)
 });
 
 $(`.previous`).on(`click`, () => {
-  $(`.carousel`).eq(imageNum).fadeOut(500)
-  $(`.carousel`).delay(500)
+  $(`.carousel`).eq(imageNum).fadeOut(300)
+  $(`.carousel`).delay(250)
   if (imageNum <= 0)
     {
     imageNum = imageIndex;
