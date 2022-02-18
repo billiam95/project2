@@ -22,9 +22,12 @@ p {
   color: yellow;
 }
 
+div {
+  text-align: center;
+}
 
 tr, td, th {
-  border: 2px solid darkblue;
+  border: 2px solid black;
   color: yellow;
   text-align: left;
   padding: 5px;
@@ -37,12 +40,19 @@ nav {
 
 div.filter {
   margin-top: 3%;
+  margin-bottom: 3%;
   display: flex;
   flex-direction: row;
+  justify-content: center;
+}
+
+div#skin-carousel {
+  display: inline-block;
+  margin-left: 5%;
 }
 
 table {
-  margin: 5%;
+  margin: 2%;
   width: 50vw;
 }
 

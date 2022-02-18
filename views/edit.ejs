@@ -1,19 +1,60 @@
+[]
 <!DOCTYPE html>
 <html lang="en" dir="ltr">
 <%- include(`./partials/head.ejs`) %>
   <body>
     <%- include(`./partials/nav.ejs`) %>
     <h1>Edit <%=god.name%></h1>
-    <form action="/smite_compendium/<%=god.id%>?_method=PUT" method='POST'>
-        Name: <input type="text" name="name" value="<%=god.name%>"><br><br>
-        img: <input type="text" name="img" value="<%=god.img%>"><br><br>
-        skins: <input type="text" name="skins[0]" value="<%=god.skins[0]%>"><br><br>
-        Title: <input type="text" name="title" value="<%=god.title%>"><br><br>
-        Pantheon: <input type="text" name="pantheon" value="<%=god.pantheon%>"><br><br>
-        type:<input type="text" name="type" value="<%=god.type%>"><br><br>
-        Class:<input type="text" name="class" value="<%=god.class%>"><br><br>
-        Lore:<input type="text" name="lore" value="<%=god.lore%>"><br><br>
-        <input type="submit" name="submit" value="submit"/>
-    </form>
+    <div class="container-fluid"
+      <form action="/smite_compendium/<%=god.id%>?_method=PUT" method='POST'>
+        <p>Name: </p> <input type="text" name="name" value="<%=god.name%>"><br><br>
+        <p>Img: </p> <input type="text" name="img" value="<%=god.img%>"><br><br>
+        <p>Skins: </p> <input type="text" name="skins[0]" value="<%=god.skins[0]%>"><br><br>
+        <p>Title: </p> <input type="text" name="title" value="<%=god.title%>"><br><br>
+        <p>Pantheon: </p> <input type="text" name="pantheon" value="<%=god.pantheon%>"><br><br>
+        <p>Type: </p><input type="text" name="type" value="<%=god.type%>"><br><br>
+        <p>Class: </p><input type="text" name="class" value="<%=god.class%>"><br><br>
+        <p>Lore: </p><input type="text" name="lore" value="<%=god.lore%>"><br><br>
+        <p>Ability 1 Name: </p> <input type="text" name="ability1Name" value="<%=god.abilities.abilityName%>"  /><br><br>
+        <p>Ability 1 Type: </p> <input type="text" name="ability1Type" value="<%=god.abilities.abilityType%>" /><br><br>
+        <p>Ability 1 Description: </p> <input type="text" name="ability1Description" value="<%=god.abilities.abilityDescription%>" /><br><br>
+        <p>Ability 1 Effect: </p> <input type="text" name="ability1Effect1" value="<%=god.abilities.abilityEffect1%>" /><br><br>
+        <p>Ability 1 Effect: </p> <input type="text" name="ability1Effect2" value="<%=god.abilities.abilityEffect2%>" /><br><br>
+        <p>Ability 1 Effect: </p> <input type="text" name="ability1Effect3" value="<%=god.abilities.abilityEffect3%>" /><br><br>
+        <p>Ability 1 Effect: </p> <input type="text" name="ability1Effect4" value="<%=god.abilities.abilityEffect4%>" /><br><br>
+        <p>Ability 1 Cost: </p> <input type="text" name="ability1Cost" value="<%=god.abilities.abilityCost%>" /><br><br>
+        <p>Ability 1 Cooldown: </p> <input type="text" name="ability1Cooldown" value="<%=god.abilities.abilityCooldown%>" /><br><br>
+        <p>Ability 2 Name: </p> <input type="text" name="ability2Name" value="<%=god.abilities.abilityName%>" /><br><br>
+        <p>Ability 2 Type: </p> <input type="text" name="ability2Type" value="<%=god.abilities.abilityType%>" /><br><br>
+        <p>Ability 2 Description: </p> <input type="text" name="ability2Description" value="<%=god.abilities.abilityDescription%>" /><br><br>
+        <p>Ability 2 Effect: </p> <input type="text" name="ability2Effect1" value="<%=god.abilities.abilityEffect1%>" /><br><br>
+        <p>Ability 2 Effect: </p> <input type="text" name="ability2Effect2" value="<%=god.abilities.abilityEffect2%>" /><br><br>
+        <p>Ability 2 Effect: </p> <input type="text" name="ability2Effect3" value="<%=god.abilities.abilityEffect3%>" /><br><br>
+        <p>Ability 2 Effect: </p> <input type="text" name="ability2Effect4" value="<%=god.abilities.abilityEffect4%>" /><br><br>
+        <p>Ability 2 Cost: </p> <input type="text" name="ability2Cost" value="<%=god.abilities.abilityCost%>" /><br><br>
+        <p>Ability 2 Cooldown: </p> <input type="text" name="ability2Cooldown" value="<%=god.abilities.abilityCooldown%>" /><br><br>
+        <p>Ability 3 Name: </p> <input type="text" name="ability3Name" value="<%=god.abilities.abilityName%>" /><br><br>
+        <p>Ability 3 Type: </p> <input type="text" name="ability3Type" value="<%=god.abilities.abilityType%>" /><br><br>
+        <p>Ability 3 Description: </p> <input type="text" name="ability3Description" value="<%=god.abilities.abilityDescription%>" /><br><br>
+        <p>Ability 3 Effect: </p> <input type="text" name="ability3Effect1" value="<%=god.abilities.abilityEffect1%>" /><br><br>
+        <p>Ability 3 Effect: </p> <input type="text" name="ability3Effect2" value="<%=god.abilities.abilityEffect2%>" /><br><br>
+        <p>Ability 3 Effect: </p> <input type="text" name="ability3Effect3" value="<%=god.abilities.abilityEffect3%>" /><br><br>
+        <p>Ability 3 Effect: </p> <input type="text" name="ability3Effect4" value="<%=god.abilities.abilityEffect4%>" /><br><br>
+        <p>Ability 3 Cost: </p> <input type="text" name="ability3Cost" value="<%=god.abilities.abilityCost%>" /><br><br>
+        <p>Ability 3 Cooldown: </p> <input type="text" name="ability3Cooldown" value="<%=god.abilities.abilityCooldown%>" /><br><br>
+        <p>Ability 4 Name: </p> <input type="text" name="ability4Name" value="<%=god.abilities.abilityName%>" /><br><br>
+        <p>Ability 4 Type: </p> <input type="text" name="ability4Type" value="<%=god.abilities.abilityType%>" /><br><br>
+        <p>Ability 4 Description: </p> <input type="text" name="ability4Description" value="<%=god.abilities.abilityDescription%>" /><br><br>
+        <p>Ability 4 Effect: </p> <input type="text" name="ability4Effect1" value="<%=god.abilities.abilityEffect1%>" /><br><br>
+        <p>Ability 4 Effect: </p> <input type="text" name="ability4Effect2" value="<%=god.abilities.abilityEffect2%>" /><br><br>
+        <p>Ability 4 Effect: </p> <input type="text" name="ability4Effect3" value="<%=god.abilities.abilityEffect3%>" /><br><br>
+        <p>Ability 4 Effect: </p> <input type="text" name="ability4Effect4" value="<%=god.abilities.abilityEffect4%>" /><br><br>
+        <p>Ability 4 Cost: </p> <input type="text" name="ability4Cost" value="<%=god.abilities.abilityCost%>" /><br><br>
+        <p>Ability 4 Cooldown: </p> <input type="text"  name="ability4Cooldown" value="<%=god.abilities.abilityCooldown%>" /><br><br>
+        <p>Passive Name: </p> <input type="text" name="passive.passiveName" value="<%=god.passive.passiveName%>" /><br><br>
+        <p>Passive Description: </p> <input type="text" name="passive.passiveDescription" value="<%=god.passive.passiveDescription%>" /><br><br>
+        <input type="submit" name="submit" value="submit"/><br><br>
+      </form>
+    </div>
   </body>
 </html>

@@ -3,6 +3,7 @@
 <%- include(`./partials/head.ejs`) %>
   <body>
       <%- include(`./partials/nav.ejs`) %>
+    <center><h1>SMITE COMPENDIUM</h1></center>
     <div class = "filter">
       <form action ="/warriors" method="GET">
         <input type="submit" id="Warrior" name="Class" value="Warriors"></input>
@@ -20,7 +21,6 @@
         <input type="submit" id="Hunter" name="Class" value="Hunters"></input>
       </form>
     </div>
-    <center><h1>SMITE COMPENDIUM</h1></center>
     <div class ="container-fluid">
       <% for (let i=0; i<=god.length-1; i++) { %>
         <a href="smite_compendium/<%=god[i].id%>"><img src="<%=god[i].img%>" alt="no img shown"></a>

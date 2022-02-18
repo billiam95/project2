@@ -7,6 +7,7 @@
     <div class="container-fluid">
       <h1><%=god.name%></h1>
     </div>
+    <div id = skin-carousel>
       <button type="button" class="previous"><<<</button>
       <div class="carousel-container">
         <% for (let i=0; i<=god.skins.length-1; i++) { %>
@@ -14,6 +15,7 @@
         <% } %>
       </div>
       <button type="button" class="next">>>></button>
+    </div>
     <div class="container-fluid">
       <h2><%=god.title%></h2>
       <h3>Pantheon: <%=god.pantheon%></h3>

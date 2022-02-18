@@ -2,70 +2,60 @@
 <html lang="en" dir="ltr">
 <%- include(`./partials/head.ejs`) %>
   <body>
-    <%- include(`./partials/nav.ejs`) %>
-    <h1>Create God</h1>
-      <form action="/smite_compendium" method="POST">
-        <div class = "container-fluid">
-          Name: <input type="text" name="name" />
-          Icon: <input type="text" name="img" />
-          Card1: <input type="text" name="skins" />
-          Card2: <input type="text" name="skins" />
-          Card3: <input type="text" name="skins" />
-          Title: <input type="text" name="title" />
-          Type:  <input type="text" name="type" />
-          Class: <input type="text" name="class" />
-          Lore: <input type="text" name="lore" />
-          Pantheon: <input type="text" name="pantheon" />
-        </div>
-        <div class = "new">
-          Ability 1 Name: <input type="text" name="ability1Name" />
-          Ability 1 Type: <input type="text" name="ability1Type" />
-          Ability 1 Description: <input type="text" name="ability1Description" />
-          Ability 1 Effect: <input type="text" name="ability1Effect1" />
-          Ability 1 Effect: <input type="text" name="ability1Effect2" />
-          Ability 1 Effect: <input type="text" name="ability1Effect3" />
-          Ability 1 Effect: <input type="text" name="ability1Effect4" />
-          Ability 1 Cost: <input type="text" name="ability1Cost" />
-          Ability 1 Cooldown: <input type="text" name="ability1Cooldown" />
-        </div>
-        <div class = "new">
-          Ability 2 Name: <input type="text" name="ability2Name" />
-          Ability 2 Type: <input type="text" name="ability2Type" />
-          Ability 2 Description: <input type="text" name="ability2Description" />
-          Ability 2 Effect: <input type="text" name="ability2Effect1" />
-          Ability 2 Effect: <input type="text" name="ability2Effect2" />
-          Ability 2 Effect: <input type="text" name="ability2Effect3" />
-          Ability 2 Effect: <input type="text" name="ability2Effect4" />
-          Ability 2 Cost: <input type="text" name="ability2Cost" />
-          Ability 2 Cooldown: <input type="text" name="ability2Cooldown" />
-        </div>
-        <div class = "new">
-          Ability 3 Name: <input type="text" name="ability3Name" />
-          Ability 3 Type: <input type="text" name="ability3Type" />
-          Ability 3 Description: <input type="text" name="ability3Description" />
-          Ability 3 Effect: <input type="text" name="ability3Effect1" />
-          Ability 3 Effect: <input type="text" name="ability3Effect2" />
-          Ability 3 Effect: <input type="text" name="ability3Effect3" />
-          Ability 3 Effect: <input type="text" name="ability3Effect4" />
-          Ability 3 Cost: <input type="text" name="ability3Cost" />
-          Ability 3 Cooldown: <input type="text" name="ability3Cooldown" />
-        </div>
-        <div class = "new">
-          Ability 4 Name: <input type="text" name="ability4Name" />
-          Ability 4 Type: <input type="text" name="ability4Type" />
-          Ability 4 Description: <input type="text" name="ability4Description" />
-          Ability 4 Effect: <input type="text" name="ability4Effect1" />
-          Ability 4 Effect: <input type="text" name="ability4Effect2" />
-          Ability 4 Effect: <input type="text" name="ability4Effect3" />
-          Ability 4 Effect: <input type="text" name="ability4Effect4" />
-          Ability 4 Cost: <input type="text" name="ability4Cost" />
-          Ability 4 Cooldown: <input type="text"  name="ability4Cooldown" />
-        </div>
-        <div class = "new">
-          Passive Name: <input type="text" name="passive.passiveName" />
-          Passive Description: <input type="text" name="passive.passiveDescription" />
-        </div>
-        <input type="submit" value="Create God" />
-      </form>
+      <%- include(`./partials/nav.ejs`) %>
+      <h1>Create God</h1>
+      <div class = "container-fluid">
+        <form action="/smite_compendium" method="POST">
+          Name: <input type="text" name="name" /><br><br>
+          Icon: <input type="text" name="img" /><br><br>
+          Card1: <input type="text" name="skins" /><br><br>
+          Card2: <input type="text" name="skins" /><br><br>
+          Card3: <input type="text" name="skins" /><br><br>
+          Title: <input type="text" name="title" /><br><br>
+          Type:  <input type="text" name="type" /><br><br>
+          Class: <input type="text" name="class" /><br><br>
+          Lore: <input type="text" name="lore" /><br><br>
+          Pantheon: <input type="text" name="pantheon" /><br><br>
+          Ability 1 Name: <input type="text" name="ability1Name" /><br><br>
+          Ability 1 Type: <input type="text" name="ability1Type" /><br><br>
+          Ability 1 Description: <input type="text" name="ability1Description" /><br><br>
+          Ability 1 Effect: <input type="text" name="ability1Effect1" /><br><br>
+          Ability 1 Effect: <input type="text" name="ability1Effect2" /><br><br>
+          Ability 1 Effect: <input type="text" name="ability1Effect3" /><br><br>
+          Ability 1 Effect: <input type="text" name="ability1Effect4" /><br><br>
+          Ability 1 Cost: <input type="text" name="ability1Cost" /><br><br>
+          Ability 1 Cooldown: <input type="text" name="ability1Cooldown" /><br><br>
+          Ability 2 Name: <input type="text" name="ability2Name" /><br><br>
+          Ability 2 Type: <input type="text" name="ability2Type" /><br><br>
+          Ability 2 Description: <input type="text" name="ability2Description" /><br><br>
+          Ability 2 Effect: <input type="text" name="ability2Effect1" /><br><br>
+          Ability 2 Effect: <input type="text" name="ability2Effect2" /><br><br>
+          Ability 2 Effect: <input type="text" name="ability2Effect3" /><br><br>
+          Ability 2 Effect: <input type="text" name="ability2Effect4" /><br><br>
+          Ability 2 Cost: <input type="text" name="ability2Cost" /><br><br>
+          Ability 2 Cooldown: <input type="text" name="ability2Cooldown" /><br><br>
+          Ability 3 Name: <input type="text" name="ability3Name" /><br><br>
+          Ability 3 Type: <input type="text" name="ability3Type" /><br><br>
+          Ability 3 Description: <input type="text" name="ability3Description" /><br><br>
+          Ability 3 Effect: <input type="text" name="ability3Effect1" /><br><br>
+          Ability 3 Effect: <input type="text" name="ability3Effect2" /><br><br>
+          Ability 3 Effect: <input type="text" name="ability3Effect3" /><br><br>
+          Ability 3 Effect: <input type="text" name="ability3Effect4" /><br><br>
+          Ability 3 Cost: <input type="text" name="ability3Cost" /><br><br>
+          Ability 3 Cooldown: <input type="text" name="ability3Cooldown" /><br><br>
+          Ability 4 Name: <input type="text" name="ability4Name" /><br><br>
+          Ability 4 Type: <input type="text" name="ability4Type" /><br><br>
+          Ability 4 Description: <input type="text" name="ability4Description" /><br><br>
+          Ability 4 Effect: <input type="text" name="ability4Effect1" /><br><br>
+          Ability 4 Effect: <input type="text" name="ability4Effect2" /><br><br>
+          Ability 4 Effect: <input type="text" name="ability4Effect3" /><br><br>
+          Ability 4 Effect: <input type="text" name="ability4Effect4" /><br><br>
+          Ability 4 Cost: <input type="text" name="ability4Cost" /><br><br>
+          Ability 4 Cooldown: <input type="text"  name="ability4Cooldown" /><br><br>
+          Passive Name: <input type="text" name="passive.passiveName" /><br><br>
+          Passive Description: <input type="text" name="passive.passiveDescription" /><br><br>
+          <input type="submit" value="Create God" /><br><br>
+        </form>
+      </div>
   </body>
 </html>
