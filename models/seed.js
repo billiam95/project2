@@ -1408,7 +1408,7 @@ module.exports = [
   skins: ["/SKINS/CabraSkin0.jpg","/SKINS/CabraSkin1.jpg","/SKINS/CabraSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1465,11 +1465,11 @@ module.exports = [
 },
 {
   name: "Camazotz",
-  img: "/ICONS/Camazots.jpg",
+  img: "/ICONS/Camazotz.jpg",
   skins: ["/SKINS/CamSkin0.jpg","/SKINS/CamSkin1.jpg","/SKINS/CamSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Assassin",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1530,7 +1530,7 @@ module.exports = [
   skins: ["/SKINS/CerbSkin0.jpg","/SKINS/CerbSkin1.jpg","/SKINS/CerbSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1591,7 +1591,7 @@ module.exports = [
   skins: ["/SKINS/CernSkin0.jpg","/SKINS/CernSkin1.jpg","/SKINS/CernSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1713,7 +1713,7 @@ module.exports = [
   skins: ["/SKINS/ChangeSkin0.jpg","/SKINS/ChangeSkin1.jpg","/SKINS/ChangeSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Mage",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1774,7 +1774,7 @@ module.exports = [
   skins: ["/SKINS/CharybdisSkin0.jpg","/SKINS/CharybdisSkin1.jpg","/SKINS/CharybdisSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1835,7 +1835,7 @@ module.exports = [
   skins: ["/SKINS/ChernSkin0.jpg","/SKINS/ChernSkin1.jpg","/SKINS/ChernSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1896,7 +1896,7 @@ module.exports = [
   skins: ["/SKINS/ChironSkin0.jpg","/SKINS/ChironSkin1.jpg","/SKINS/ChironSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -1957,7 +1957,7 @@ module.exports = [
   skins: ["/SKINS/ChronosSkin0.jpg","/SKINS/ChronosSkin1.jpg","/SKINS/ChronosSkin2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Mage",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2018,7 +2018,7 @@ module.exports = [
   skins: ["/SKINS/Clio0.jpg","/SKINS/Clio1.jpg","/SKINS/Clio2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Assassin",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2140,7 +2140,7 @@ module.exports = [
   skins: ["/SKINS/Cupid0.jpg","/SKINS/Cupid1.jpg","/SKINS/Cupid2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2201,7 +2201,7 @@ module.exports = [
   skins: ["/SKINS/Cth0.jpg","/SKINS/Cth1.jpg","/SKINS/Cth2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2262,7 +2262,7 @@ module.exports = [
   skins: ["/SKINS/Daji0.jpg","/SKINS/Daji1.jpg","/SKINS/Daji2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Assassin",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2323,7 +2323,7 @@ module.exports = [
   skins: ["/SKINS/Dan0.jpg","/SKINS/Dan1.jpg","/SKINS/Dan2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Hunter",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2384,7 +2384,7 @@ module.exports = [
   skins: ["/SKINS/Dis0.jpg","/SKINS/Dis1.jpg","/SKINS/Dis2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Mage",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2506,7 +2506,7 @@ module.exports = [
   skins: ["/SKINS/Eset0.jpg","/SKINS/Eset1.jpg","/SKINS/Eset2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Mage",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2567,7 +2567,7 @@ module.exports = [
   skins: ["/SKINS/Faf0.jpg","/SKINS/Faf1.jpg","/SKINS/Faf2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2628,7 +2628,7 @@ module.exports = [
   skins: ["/SKINS/Fen0.jpg","/SKINS/Fen1.jpg","/SKINS/Fen2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Assassin",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2689,7 +2689,7 @@ module.exports = [
   skins: ["/SKINS/Freya0.jpg","/SKINS/Freya1.jpg","/SKINS/Freya2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Mage",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2750,7 +2750,7 @@ module.exports = [
   skins: ["/SKINS/Gan0.jpg","/SKINS/Gan1.jpg","/SKINS/Gan2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2811,7 +2811,7 @@ module.exports = [
   skins: ["/SKINS/Geb0.jpg","/SKINS/Geb1.jpg","/SKINS/Geb2.jpg"],
   title: "Goddess of War",
   type: ["Melee", "Physical"],
-  class: "Warrior",
+  class: "Guardian",
   lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
   pantheon: "Roman",
   abilities: [
@@ -2986,6 +2986,4276 @@ module.exports = [
     {
     passiveName: "Master of War",
     passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hachiman",
+  img: "/ICONS/Haichiman.jpg",
+  skins: ["/SKINS/Hachi0.jpg","/SKINS/Hachi1.jpg","/SKINS/Hachi2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hades",
+  img: "/ICONS/Hades.jpg",
+  skins: ["/SKINS/Hades0.jpg","/SKINS/Hades1.jpg","/SKINS/Hades2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "He Bo",
+  img: "/ICONS/Hebo.jpg",
+  skins: ["/SKINS/He0.jpg","/SKINS/He1.jpg","/SKINS/He2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Heimdallr",
+  img: "/ICONS/Heim.jpg",
+  skins: ["/SKINS/Heim0.jpg","/SKINS/Heim1.jpg","/SKINS/Heim2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hel",
+  img: "/ICONS/Hel.jpg",
+  skins: ["/SKINS/Hel0.jpg","/SKINS/Hel1.jpg","/SKINS/Hel2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hera",
+  img: "/ICONS/Hera.jpg",
+  skins: ["/SKINS/Hera0.jpg","/SKINS/Hera1.jpg","/SKINS/Hera2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hercules",
+  img: "/ICONS/Herc.jpg",
+  skins: ["/SKINS/Herc0.jpg","/SKINS/Herc1.jpg","/SKINS/Herc2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Horus",
+  img: "/ICONS/Horus.jpg",
+  skins: ["/SKINS/Horus0.jpg","/SKINS/Horus1.jpg","/SKINS/Horus2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Hun Batz",
+  img: "/ICONS/HB.jpg",
+  skins: ["/SKINS/Hun0.jpg","/SKINS/Hun1.jpg","/SKINS/Hun2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Huo Yi",
+  img: "/ICONS/HY.jpg",
+  skins: ["/SKINS/Huo0.jpg","/SKINS/Huo1.jpg","/SKINS/Huo2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Izanami",
+  img: "/ICONS/Izanami.jpg",
+  skins: ["/SKINS/Iz0.jpg","/SKINS/Iz1.jpg","/SKINS/Iz2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Janus",
+  img: "/ICONS/Janus.jpg",
+  skins: ["/SKINS/Janus0.jpg","/SKINS/Janus1.jpg","/SKINS/Janus2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Jing Wei",
+  img: "/ICONS/Jing.jpg",
+  skins: ["/SKINS/Jing0.jpg","/SKINS/Jing1.jpg","/SKINS/Jing2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Jormungandr",
+  img: "/ICONS/Jorm.jpg",
+  skins: ["/SKINS/Jorm0.jpg","/SKINS/Jorm1.jpg","/SKINS/Jorm2.jpg"],
+  title: "Goddess of War",
+  type: ["Melee", "Physical"],
+  class: "Guardian",
+  lore: "Rome has forgotten her. Bellona, the Goddess of War, took no time to build temples or gather worshippers. She favors only those for whom war is life; for that is where she thrives - not on the steps of hallowed basilicas or in whispered prayers, but in the blood-soaked mud, among the breathless armored troops, in the roar of victory. When Rome was young, Bellona ran with her armies, conquered her enemies, made her strong. As Rome aged and began to crumble, she fought only with her strongest and most cunning of worshippers, Lucius Cornelius Sulla. Sulla rose through the ranks by accomplishing impossible deeds of heroism and ruthless prowess. His enemies feared him, his soldiers loved him, and everywhere he went, Bellona rode with him. Together they quelled the Germanic hordes, they broke the Social War, they sacked Athens. Sulla was utterly undefeatable, and it was the Goddess of War that made him so. But the Roman Senate moved to displace Sulla and end his rise to glory. 'March on Rome,' Bellona quietly urged, 'and you shall rise as no other.' Emboldened, Sulla commanded his legions and took the city streets, Bellona at the fore, slaughtering the gladiator-slaves that stood against them. The Senate buckled. They cast the vote. Sulla became the first life-long dictator of Rome. During Sulla's reign, Bellona was worshipped for the Goddess she was. But Sulla had grown old. His wars were over. Bellona moved on, and Rome forgot. But the forgotten are not gone. Gods clash in titanic conflict. It is in war she thrives. No one will forget Bellona the Goddess of War this time.",
+  pantheon: "Roman",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Master of War",
+    passiveDescription: "Upon giving or receiving hits from Basic Attacks, Bellona gains Protections and movement speed for 7s. (max. 5 stacks)."
+    }
+},
+{
+  name: "Kali",
+  img: "/ICONS/Kali.jpg",
+  skins: ["/SKINS/Kali0.jpg","/SKINS/Kali1.jpg","/SKINS/Kali2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Kephri",
+  img: "/ICONS/Kephri.jpg",
+  skins: ["/SKINS/Kep0.jpg","/SKINS/Kep1.jpg","/SKINS/Kep2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "King Arthur",
+  img: "/ICONS/KA.jpg",
+  skins: ["/SKINS/King0.jpg","/SKINS/King1.jpg","/SKINS/King2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Kukulkan",
+  img: "/ICONS/Kulk.jpg",
+  skins: ["/SKINS/Kulk0.jpg","/SKINS/Kulk1.jpg","/SKINS/Kulk2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Kumbhakarna",
+  img: "/ICONS/Kumba.jpg",
+  skins: ["/SKINS/Kumba0.jpg","/SKINS/Kumba1.jpg","/SKINS/Kumba2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Kuzenbo",
+  img: "/ICONS/Kuz.jpg",
+  skins: ["/SKINS/Kuz0.jpg","/SKINS/Kuz1.jpg","/SKINS/Kuz2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Loki",
+  img: "/ICONS/Loki.jpg",
+  skins: ["/SKINS/Loki0.jpg","/SKINS/Loki1.jpg","/SKINS/Loki2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Medusa",
+  img: "/ICONS/Medusa.jpg",
+  skins: ["/SKINS/Medusa0.jpg","/SKINS/Medusa1.jpg","/SKINS/Medusa2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Hunter",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Mercury",
+  img: "/ICONS/Merc.jpg",
+  skins: ["/SKINS/Merc0.jpg","/SKINS/Merc1.jpg","/SKINS/Merc2.jpg"],
+  title: "Messenger of the Gods",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Merlin",
+  img: "/ICONS/Merlin.jpg",
+  skins: ["/SKINS/Merlin0.jpg","/SKINS/Merlin1.jpg","/SKINS/Merlin2.jpg"],
+  title: "The Master Wizard",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Morgan Le Fay",
+  img: "/ICONS/MLF.jpg",
+  skins: ["/SKINS/MLF0.jpg","/SKINS/MLF1.jpg","/SKINS/MLF2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Mulan",
+  img: "/ICONS/Mulan.jpg",
+  skins: ["/SKINS/Mulan0.jpg","/SKINS/Mulan1.jpg","/SKINS/Mulan2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Ne Zha",
+  img: "/ICONS/NZ.jpg",
+  skins: ["/SKINS/Ne0.jpg","/SKINS/Ne1.jpg","/SKINS/Ne2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Neith",
+  img: "/ICONS/Neith.jpg",
+  skins: ["/SKINS/Neith0.jpg","/SKINS/Neith1.jpg","/SKINS/Neith2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Ranged", "Physical"],
+  class: "Hunter",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Nemesis",
+  img: "/ICONS/Nem.jpg",
+  skins: ["/SKINS/Nem0.jpg","/SKINS/Nem1.jpg","/SKINS/Nem2.jpg"],
+  title: "Goddess of Vengeance",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Nike",
+  img: "/ICONS/Nike.jpg",
+  skins: ["/SKINS/Nike0.jpg","/SKINS/Nike1.jpg","/SKINS/Nike2.jpg"],
+  title: "Goddess of Victory",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Nox",
+  img: "/ICONS/Nox.jpg",
+  skins: ["/SKINS/Nox0.jpg","/SKINS/Nox1.jpg","/SKINS/Nox2.jpg"],
+  title: "Goddess of Night",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Nu Wa",
+  img: "/ICONS/Nu.jpg",
+  skins: ["/SKINS/Nu0.jpg","/SKINS/Nu1.jpg","/SKINS/Nu2.jpg"],
+  title: "Guardian of Heaven",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Odin",
+  img: "/ICONS/Odin.jpg",
+  skins: ["/SKINS/Odin0.jpg","/SKINS/Odin1.jpg","/SKINS/Odin2.jpg"],
+  title: "The Allfather",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Olorun",
+  img: "/ICONS/Olorun.jpg",
+  skins: ["/SKINS/Olo0.jpg","/SKINS/Olo1.jpg","/SKINS/Olo2.jpg"],
+  title: "Ruler of the Heavens",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Osiris",
+  img: "/ICONS/Osiris.jpg",
+  skins: ["/SKINS/Osiris0.jpg","/SKINS/Osiris1.jpg","/SKINS/Osiris2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Pele",
+  img: "/ICONS/Pele.jpg",
+  skins: ["/SKINS/Pele0.jpg","/SKINS/Pele1.jpg","/SKINS/Pele2.jpg"],
+  title: "Goddess of Volcanoes",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Persephone",
+  img: "/ICONS/Pers.jpg",
+  skins: ["/SKINS/Pers0.jpg","/SKINS/Pers1.jpg","/SKINS/Pers2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Poseidon",
+  img: "/ICONS/Poseiden.jpg",
+  skins: ["/SKINS/Pos0.jpg","/SKINS/Pos1.jpg","/SKINS/Pos2.jpg"],
+  title: "God of the Oceans",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Ra",
+  img: "/ICONS/Ra.jpg",
+  skins: ["/SKINS/Ra0.jpg","/SKINS/Ra1.jpg","/SKINS/Ra2.jpg"],
+  title: "Goddess of Destruction",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Raijin",
+  img: "/ICONS/Rajin.jpg",
+  skins: ["/SKINS/Rajin0.jpg","/SKINS/Rajin1.jpg","/SKINS/Rajin2.jpg"],
+  title: "Master of Thunder",
+  type: ["Melee", "Physical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Rama",
+  img: "/ICONS/Rama.jpg",
+  skins: ["/SKINS/Rama0.jpg","/SKINS/Rama1.jpg","/SKINS/Rama2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Hunter",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Ratatoskr",
+  img: "/ICONS/Rat.jpg",
+  skins: ["/SKINS/Rat0.jpg","/SKINS/Rat1.jpg","/SKINS/Rat2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Ravana",
+  img: "/ICONS/Ravana.jpg",
+  skins: ["/SKINS/Rav0.jpg","/SKINS/Rav1.jpg","/SKINS/Rav2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Melee", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Scylla",
+  img: "/ICONS/Scylla.jpg",
+  skins: ["/SKINS/Scylla0.jpg","/SKINS/Scylla1.jpg","/SKINS/Scylla2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Serqet",
+  img: "/ICONS/Serqet.jpg",
+  skins: ["/SKINS/Serq0.jpg","/SKINS/Serq1.jpg","/SKINS/Serq2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Set",
+  img: "/ICONS/Set.jpg",
+  skins: ["/SKINS/Set0.jpg","/SKINS/Set1.jpg","/SKINS/Set2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Shiva",
+  img: "/ICONS/Shiva.jpg",
+  skins: ["/SKINS/Shiva0.jpg","/SKINS/Shiva1.jpg","/SKINS/Shiva2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Skadi",
+  img: "/ICONS/Skadi.jpg",
+  skins: ["/SKINS/Skadi0.jpg","/SKINS/Skadi1.jpg","/SKINS/Skadi2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Hunter",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Sobek",
+  img: "/ICONS/Sobek.jpg",
+  skins: ["/SKINS/Sobek0.jpg","/SKINS/Sobek1.jpg","/SKINS/Sobek2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Sol",
+  img: "/ICONS/Sol.jpg",
+  skins: ["/SKINS/Sol0.jpg","/SKINS/Sol1.jpg","/SKINS/Sol2.jpg"],
+  title: "Goddess of the Sun",
+  type: ["Ranged", "Physical"],
+  class: "Mage",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Sun Wukong",
+  img: "/ICONS/Sun.jpg",
+  skins: ["/SKINS/Sun0.jpg","/SKINS/Sun1.jpg","/SKINS/Sun2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Susano",
+  img: "/ICONS/Susano.jpg",
+  skins: ["/SKINS/Sus0.jpg","/SKINS/Sus1.jpg","/SKINS/Sus2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Sylvanus",
+  img: "/ICONS/Sylvanus.jpg",
+  skins: ["/SKINS/Syl0.jpg","/SKINS/Syl1.jpg","/SKINS/Syl2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Tera",
+  img: "/ICONS/Tera.jpg",
+  skins: ["/SKINS/Tera0.jpg","/SKINS/Tera1.jpg","/SKINS/Tera2.jpg"],
+  title: "The Earth Mother",
+  type: ["Ranged", "Physical"],
+  class: "Guardian",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "Thanatos",
+  img: "/ICONS/Thanatos.jpg",
+  skins: ["/SKINS/Than0.jpg","/SKINS/Than1.jpg","/SKINS/Than2.jpg"],
+  title: "Seventh Avatar of Vishnu",
+  type: ["Ranged", "Physical"],
+  class: "Assassin",
+  lore: "To speak of Kali is to speak of the beginning of time itself. Across the majestic lands of Hindustan rose an army of demons that conquered the countryside and slaughtered the people. Yet, when the Gods themselves were defeated, Devi, the supreme Goddess, emerged to throw back this host and protect the faithful. Three forms she took during these ancient times. The first, Durga, the Mother of Creation, was as radiant as she was fearsome. Astride her tiger, she scattered the demon horde until she encountered the horrendous Raktabija. For each wound she gave the demon, his cursed blood created a copy, quickly resulting in an unstoppable army of Raktabija clones. Rage boiled at the corners of Durga's mind, in the quest to slaughter and destroy evil. From the forehead of Durga sprung her wrathful form, with skin darkened and eyes glowing a menacing red. Thus was Kali, the Black One, Goddess of Time and Destruction, the second form of Devi born. Rarely has Kali been seen since, kept in the shadows of Devi's mind, but when the tides of battle shift and evil looms large, there is no solution but unrestrained destruction of evil, and Kali once again, walks the Earth.",
+  pantheon: "Hindu",
+  abilities: [
+    {
+    abilityName: "Shield Bash",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Bludgeon",
+    abilityType: "Type: Area",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Scourge",
+    abilityType: "Type: Line",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Eagle's Rally",
+    abilityType: "Type: Leap",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Marked for Death",
+    passiveDescription: "Kali selects a god to Mark. Kali gains Physical Penetration against that god, and Heals 80% of her Max Health for killing the god or 20% for assisting. Gold Bounty from that god is increased by 30% for a Kill or Assist. If her marked target dies the enemy god closest to Kali becomes marked. If Kali is killed by an enemy god she may choose a new target."
+    }
+},
+{
+  name: "The Morrigan",
+  img: "/ICONS/Morrigan.jpg",
+  skins: ["/SKINS/TM0.jpg","/SKINS/TM1.jpg","/SKINS/TM2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Thor",
+  img: "/ICONS/Thor.jpg",
+  skins: ["/SKINS/Thor0.jpg","/SKINS/Thor1.jpg","/SKINS/Thor2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Assassin",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Thoth",
+  img: "/ICONS/Thoth.jpg",
+  skins: ["/SKINS/Thoth0.jpg","/SKINS/Thoth1.jpg","/SKINS/Thoth2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Tiamat",
+  img: "/ICONS/Tiamat.jpg",
+  skins: ["/SKINS/Tia0.jpg","/SKINS/Tia1.jpg","/SKINS/Tia2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Tsukuyomi",
+  img: "/ICONS/Tsuk.jpg",
+  skins: ["/SKINS/Tsuk0.jpg","/SKINS/Tsuk1.jpg","/SKINS/Tsuk2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Assassin",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Tyr",
+  img: "/ICONS/Try.jpg",
+  skins: ["/SKINS/Tyr0.jpg","/SKINS/Tyr1.jpg","/SKINS/Tyr2.jpg"],
+  title: "The Lawgiver",
+  type: ["Melee", "Physical"],
+  class: "Warrior",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Norse",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Ullr",
+  img: "/ICONS/Ullr.jpg",
+  skins: ["/SKINS/Ullr0.jpg","/SKINS/Ullr1.jpg","/SKINS/Ullr2.jpg"],
+  title: "The Glorius One",
+  type: ["Ranged", "Physical"],
+  class: "Hunter",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Vamana",
+  img: "/ICONS/Vamana.jpg",
+  skins: ["/SKINS/Vam0.jpg","/SKINS/Vam1.jpg","/SKINS/Vam2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Warrior",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Vulcan",
+  img: "/ICONS/Vulcan.jpg",
+  skins: ["/SKINS/Vulcan0.jpg","/SKINS/Vulcan1.jpg","/SKINS/Vulcan2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Xbalanque",
+  img: "/ICONS/X.jpg",
+  skins: ["/SKINS/X0.jpg","/SKINS/X1.jpg","/SKINS/X2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Hunter",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Xing Tian",
+  img: "/ICONS/Xing.jpg",
+  skins: ["/SKINS/Xing0.jpg","/SKINS/Xing1.jpg","/SKINS/Xing2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Guardian",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Yemoja",
+  img: "/ICONS/Yem.jpg",
+  skins: ["/SKINS/Yem0.jpg","/SKINS/Yem1.jpg","/SKINS/Yem2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Guardian",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Ymir",
+  img: "/ICONS/Ymir.jpg",
+  skins: ["/SKINS/Ymir0.jpg","/SKINS/Ymir1.jpg","/SKINS/Ymir2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Guardian",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Zeus",
+  img: "/ICONS/Zeus.jpg",
+  skins: ["/SKINS/Zeus0.jpg","/SKINS/Zeus1.jpg","/SKINS/Zeus2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
+    }
+},
+{
+  name: "Zhong Kui",
+  img: "/ICONS/Zhong.jpg",
+  skins: ["/SKINS/Zhong0.jpg","/SKINS/Zhong1.jpg","/SKINS/Zhong2.jpg"],
+  title: "Phantom Queen",
+  type: ["Ranged", "Magical"],
+  class: "Mage",
+  lore: "Fate is an unusual thing. An unseen force predicting every action of every being. Some deities can see it, recognizing the flow of the plan. There are none, save one, that claims mastery over it, that manipulates it with such cold intent, that steers it ever toward war and the red demise of heroes. In truth, she is many Goddesses, with many names and many forms. But there is only one title. The Morrigan. Anu, Macha, Badb. Individually, these three Goddesses were sisters, progenitors of sovereignty, war, and death. They were caretakers of their lush green Éire, champions for armored soldiers, guides for the deceased. It is unknown what bound them together. Some whispered curse, some lover's scorn. Some dark power or darker purposes. But now they are one. She's been seen in many shapes. The lurid seductress, the wrinkled hag, the screaming crow, and worst of all, the washer in the river. For those who witness her cleaning their bloody armor prophesies a violent end. Subtle and manipulative, there is no war The Morrigan did not incite. No dying breath she did not collect. Even this war, a war between Gods, must secretly be of her making. So, beware those that behold her, for The Morrigan controls your fate.",
+  pantheon: "Celtic",
+  abilities: [
+    {
+    abilityName: "Deadly Aspects",
+    abilityType: "Type: Cone",
+    abilityDescription: "Bellona dashes forward and bashes with her shield, dealing damage and Slowing enemies. Bellona gains 1 Stack of block for each enemy god hit. Block absorbs all damage from a single Basic Attack and reflects a portion of the damage around her. Bellona then makes Basic Attacks with sword and shield until she has not taken or dealt damage in the last 7s. Every 3 successful basic attacks she gains another Stack of block (max. 3).",
+    abilityEffect1: "Damage: 80/120/160/200/240 (+50% of your Physical Power)",
+    abilityEffect2: "Block Reflect: 30%",
+    abilityEffect3: "Slow: 15/20/25/30/35% for 2s",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60 mana",
+    abilityCooldown: "Cooldown: 14 seconds"
+    },
+    {
+    abilityName: "Dark Omen",
+    abilityType: "Type: Projectile",
+    abilityDescription: "Bellona summons a hammer and spins, hitting every enemy around her and then smashing forward in an overhand attack. Each enemy god hit in the spin increases the damage of the overhand attack. Bellona now makes Basic Attacks with her hammer until she has not taken or dealt damage in the last 7s. Every hammer attack hits all enemies in melee range and only benefit from 33% of Bellona's total Lifesteal.",
+    abilityEffect1: "Spin Damage: 45/75/105/135/165 (+25% of your Physical Power)",
+    abilityEffect2: "Slam Damage: 70/130/190/250/310 (+60% of your Physical Power)",
+    abilityEffect3: "Slam Damage Increase: 25% per Enemy God hit",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 14/13/12/11/10 seconds"
+    },
+    {
+    abilityName: "Confusion",
+    abilityType: "Type: Stealth",
+    abilityDescription: "Bellona summons a scourge, dealing damage to all enemies in a line. Enemies hit are Disarmed, and cannot make Basic Attacks. Bellona now makes Basic Attacks with a scourge until she has not taken or dealt damage in the last 7s. Basic Attacks have extended range (+4) and every third attack heals Bellona.",
+    abilityEffect1: "Damage: 90/130/170/210/250 (+50% of your Physical Power)",
+    abilityEffect2: "Disarm Duration: 1.4/1.6/1.8/2/2.2s",
+    abilityEffect3: "Healing: 25/30/35/40/45",
+    abilityEffect4: "",
+    abilityCost: "Cost: 60/65/70/75/80 mana",
+    abilityCooldown: "Cooldown: 18/17/16/15/14 seconds"
+    },
+    {
+    abilityName: "Changeling",
+    abilityType: "Type: Transformation",
+    abilityDescription: "Bellona plants a Roman flag, granting Protections and increased Physical Power to allied gods. Enemies directly under where the flag is placed take damage and are Stunned for 1.25s.",
+    abilityEffect1: "Damage: 140/230/320/410/500 (+50% of your Physical Power)",
+    abilityEffect2: "Protections: 15/20/25/30/35",
+    abilityEffect3: "Physical Power: 20/30/40/50/60",
+    abilityEffect4: "Flag Duration: 8s",
+    abilityCost: "Cost: 100 mana",
+    abilityCooldown: "Cooldown: 75 seconds"
+    }
+    ],
+  passive:
+    {
+    passiveName: "Doomsayer",
+    passiveDescription: "The 3rd hit of The Morrigan's hit chain will explode, dealing damage to all enemies within range and Dooming all enemies hit. Doomed Enemies will take additional Basic Attack damage over time."
     }
 },
 ]
